@@ -1,0 +1,2 @@
+id- 0 - Theme
+id- 1 - Point catch area
